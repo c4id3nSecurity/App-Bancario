@@ -1,4 +1,4 @@
-![image](https://github.com/c4id3nSecurity/App-Bancario/assets/137456612/ce0031ed-4dff-479a-ae43-787255de5e58)# App-Bancario
+# App-Bancario
 
 # Getting Started with Create React App
 
@@ -26,5 +26,6 @@ If you want to check the application on your mobile:
 Android [Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US) for more information.
 
 Iphone [Apple Store](https://apps.apple.com/br/app/expo-go/id982107779) for more information.
+
 
 ![image](https://github.com/c4id3nSecurity/App-Bancario/assets/137456612/46043900-172a-4dcf-916f-4f64ca65429c)
